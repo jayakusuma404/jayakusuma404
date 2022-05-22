@@ -1,6 +1,12 @@
 # Hi I'm Jaya in here! 👋
 
-Welcome to my profile! I am a student, as well as [blogger](https://www.growwithjaya), part-time frond-end web developper and currently learning UI/UX Design. I'm currently building [@growwithjaya](https://github.com/Grow-with-Jaya). Thanks for visiting and I would love it if we could [connect](https://www.linkedin.com/in/jayakusuma404/)!
+Welcome to my profile! I am a Student 📚
+
+as well as full-time [Blogger & Content Creator](https://www.growwithjaya) ✍️ 🎥
+
+part-time frond-end web developper & UI/UX Designer 👨‍💻 🎨
+
+I'm currently building [@growwithjaya](https://github.com/Grow-with-Jaya). Thanks for visiting and I would love it if we could [connect](https://www.linkedin.com/in/jayakusuma404/)!
 
 [![Linkedin Badge](https://img.shields.io/badge/-jayakusuma404-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayakusuma404/)](https://www.linkedin.com/in/jayakusuma404/)
 [![Instagram Badge](https://img.shields.io/badge/-@jayakusuma404-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/jayakusuma404/)](https://instagram.com/jayakusuma404)
