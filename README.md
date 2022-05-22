@@ -21,7 +21,7 @@ Thanks for visiting and I would love it if we could [connect](https://www.linked
 
 ## Currently Building
 
-- [Grow with Jaya](https:/growwithjaya.com) - 💡 is an educational, informational, digital literacy media.
+- [Grow with Jaya](https:/growwithjaya.com) - 💡 is an educational, informational, digital literacy media
 - [Class Grow with Jaya](https://class.growwithjaya.com) - 😀 📖 Digital skills learning platform
 
 ## Skill & Tools
