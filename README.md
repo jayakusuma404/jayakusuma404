@@ -19,6 +19,11 @@ Thanks for visiting and I would love it if we could [connect](https://www.linked
 [![Website Badge](https://img.shields.io/badge/-JayaSite-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://m.growwithjaya.com)](https://m.growwithjaya.com)
 [![Gmail Badge](https://img.shields.io/badge/-cyberkusuma8-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:cyberkusuma8@gmail.com)](mailto:cyberkusuma8@gmail.com)
 
+## Currently Building
+
+- [Grow with Jaya](https:/growwithjaya.com) - 💡 is an educational, informational, digital literacy media.
+- [Class Grow with Jaya](https://class.growwithjaya.com) - 😀 📖 Digital skills learning platform
+
 ## Skill & Tools
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
