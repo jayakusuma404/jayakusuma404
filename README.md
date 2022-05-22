@@ -12,7 +12,7 @@ I'm currently building [@growwithjaya](https://github.com/Grow-with-Jaya) âœ¨ ðŸ
 
 Thanks for visiting and I would love it if we could [connect](https://www.linkedin.com/in/jayakusuma404/)!
 
-[![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayakusuma404/)](https://www.linkedin.com/in/jayakusuma404/)
+[![Linkedin Badge](https://img.shields.io/badge/-Jayakusuma404-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayakusuma404/)](https://www.linkedin.com/in/jayakusuma404/)
 [![Instagram Badge](https://img.shields.io/badge/-@jayakusuma404-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/jayakusuma404/)](https://instagram.com/jayakusuma404)
 [![Twitter Badge](https://img.shields.io/badge/-@jayakusuma404-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jayakusuma404)](https://twitter.com/jayakusuma404)
 [![Twitter Badge](https://img.shields.io/badge/-@jayakusuma404-4267B2?style=flat&labelColor=4267B2&logo=facebook&logoColor=white&link=https://facebook.com/jayakusuma404)](https://facebook.com/jayakusuma404)
