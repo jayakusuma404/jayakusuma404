@@ -1,6 +1,6 @@
 # Hi I'm Jaya 👋
 
-Welcome to my profile! I am a student, as well as [blogger](https://www.growwithjaya), part-time coder and full-time blogger. I'm currently building [@growwithjaya](https://www.github.com/GrowwithJaya/) . Thanks for visiting and I would love it if we could [connect](https://www.linkedin.com/in/jayakusuma404/)!
+Welcome to my profile! I am a student, as well as [blogger](https://www.growwithjaya), part-time coder and full-time blogger. I'm currently building [@growwithjaya]([https://www.github.com/GrowwithJaya/](https://github.com/Grow-with-Jaya)) . Thanks for visiting and I would love it if we could [connect](https://www.linkedin.com/in/jayakusuma404/)!
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-jayakusuma404-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayakusuma404/)](https://www.linkedin.com/in/jayakusuma404/)
